@@ -5,7 +5,7 @@ dr Jakub Michańków, email: michankj@uek.krakow.pl
 # Oceny
 - Aktywność (10% ekstra)
 - Prezentacja (40%)
-- Porjekt (60%)
+- Projekt (60%)
 
 # Terminy
 - Zgłoszenie tematu projektu:
