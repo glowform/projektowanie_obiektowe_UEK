@@ -8,9 +8,9 @@ dr Jakub Michańków, email: michankj@uek.krakow.pl
 - Projekt (60%)
 
 # Terminy
-- Zgłoszenie tematu projektu:
-- Prezentacja:
-- Oddanie projektu:
+- Zgłoszenie tematu projektu: 5 listopada 2023 (N)
+- Prezentacja: 2 grudnia 2023 (N)
+- Oddanie projektu: 21 stycznia 2024 (N)
 
 # Literatura
 Lott S.F.: Mastering Object-Oriented Python. Packt Publishing, London 2019.\
