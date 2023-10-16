@@ -8,9 +8,9 @@ dr Jakub Michańków, email: michankj@uek.krakow.pl
 - Projekt (60%)
 
 # Terminy
-- Zgłoszenie tematu projektu: 5 listopada 2023 (N)
-- Prezentacja: 2 grudnia 2023 (N)
-- Oddanie projektu: 21 stycznia 2024 (N)
+- Zgłoszenie tematu projektu: 5 listopada 2023 - temat oraz skład 3 osobowego zespołu proszę przesłać na maila.
+- Prezentacja: 2 grudnia 2023 - Prezentacja na ok 5 minut, powinna składać się ze strony tytułowej ze składem zespołu, uzasadnienia wyboru tematu, krótkiego opisu narzędzi, które będą wykorzystane w tworzeniu projektu, oraz przydziału członków zespołu do realizacji poszególnych zadań.
+- Oddanie projektu: 21 stycznia 2024 - Projekt dotyczący budowy aplikacji z wykorzystaniem podejścia obiektowego. Może być realizowany w dowolnym języku programowania. 
 
 # Literatura
 Lott S.F.: Mastering Object-Oriented Python. Packt Publishing, London 2019.\
